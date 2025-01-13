@@ -22,6 +22,9 @@
 </div>
 
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%F0%9F%93%9A+Data+Scientist+%F0%9F%92%BB;Welcome+To+My+Profile+%F0%9F%91%80" alt="Typing SVG" />
+
+
 
 
 **Aspiring Data Scientist 🔍 | BCA Student at Amity University, Patna 🎓 | Data Science Enthusiast 📊 | Lifelong Learner 🌱**  
