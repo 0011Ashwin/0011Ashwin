@@ -1,6 +1,5 @@
+![image](https://github.com/user-attachments/assets/3255f5fe-f6ae-4de7-8435-17a0431381c0)
 
-
-# Ashwin Mehta  
 **Aspiring Data Scientist 🔍 | BCA Student at Amity University, Patna 🎓 | Data Science Enthusiast 📊 | Lifelong Learner 🌱**  
 
 I am a dedicated and passionate Data Scientist in the making, pursuing my Bachelor's in Computer Applications at Amity University, Patna 🎓. My focus lies in unraveling complex datasets and transforming them into actionable insights using advanced statistical modeling, machine learning, and data visualization techniques.  
