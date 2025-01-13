@@ -9,7 +9,16 @@
   <img src="https://i.gifer.com/1kc1.gif" style="width: 100px;">
 </div>
 
-![img](https://github.com/user-attachments/assets/3255f5fe-f6ae-4de7-8435-17a0431381c0)
+
+
+<div style="display: flex; justify-content: space-between; align-items: center; padding: 0 100px;">
+  <!-- Left Image -->
+  <img src="https://i.pinimg.com/originals/17/2c/14/172c1498808c0ac50d9aad688f92ae23.gif" style="width: 150px; margin-right: 100px;" alt="Left Image">
+
+  <!-- Right Image -->
+  <img src="https://github.com/user-attachments/assets/3255f5fe-f6ae-4de7-8435-17a0431381c0" style="width: 500px; margin-left: 100px;" alt="Right Image">
+</div>
+
 
 
 **Aspiring Data Scientist 🔍 | BCA Student at Amity University, Patna 🎓 | Data Science Enthusiast 📊 | Lifelong Learner 🌱**  
