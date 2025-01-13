@@ -28,7 +28,7 @@
 </div>
 
 
-# 💫 Hello World!, Ashwin Mehta
+# 💫 Hello World!, I'm Ashwin Mehta
 Data Science Enthusiast<br>Creating Impactful solutions that make difference<br>Hands to real-world problem solving<br>I thrive on challenges and constantly push my boundaries to learn and grow.
 
 
