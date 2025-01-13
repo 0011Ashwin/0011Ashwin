@@ -28,13 +28,8 @@
 </div>
 
 
-# 💫 About Me:
-Hello World!, I'm Ashwin Mehta Data Science Enthusiast<br>Creating Impactful solutions that make difference<br>Hands to real-world problem solving<br>I thrive on challenges and constantly push my boundaries to learn and grow.
-
-
-
-
-![image](Screenshot 2025-01-13 230134.png)
+# 💫 Hello World!, Ashwin Mehta
+Data Science Enthusiast<br>Creating Impactful solutions that make difference<br>Hands to real-world problem solving<br>I thrive on challenges and constantly push my boundaries to learn and grow.
 
 
 #### Data Science Enthusiast  
@@ -45,11 +40,9 @@ I am a dedicated and passionate **Data Scientist** with a focus on applying adva
 
 Continuously navigating the dynamic frontier of **Data Science**, I actively engage in innovative projects that challenge the limits of what is possible. I thrive on solving complex problems, uncovering hidden patterns in data, and creating solutions that drive impactful results. I am always eager to learn, grow, and contribute to the ever-evolving world of technology.
 
-![image](Screenshot 2025-01-13 230304.png) <-- My mission -->
 
 To leverage my expertise to empower businesses and organizations to make smarter, data-driven decisions and unlock the potential of their data.
 
- ![image](Screenshot 2025-01-13 230332.png) <-- My focus area -->
  
 - Statistical Modeling & Machine Learning  
 - Data Visualization & Insights  
@@ -84,7 +77,6 @@ To leverage my expertise to empower businesses and organizations to make smarter
 
 <div style="flex: 1; padding-left: 10px;">
 
-![image](Screenshot 2025-01-13 230455.png) <-- tools and vision control -->
 
 
 | **Category**               | **Tools**                                                                 |
@@ -182,8 +174,6 @@ To leverage my expertise to empower businesses and organizations to make smarter
     </tr>
   </table>
 </div> -->
-
-![image](https://github.com/user-attachments/assets/6fb55673-a5dc-49f7-ab11-3ddfc1e5aa07) <--- Connect me ---->
 
 <table>
   <tr>
