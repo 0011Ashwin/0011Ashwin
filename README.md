@@ -1,25 +1,213 @@
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+</div>
+
+
+
+<div style="display: flex; gap: 0px;">
+  <img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="80" height="80" />
+  <img src="https://i.pinimg.com/originals/31/37/15/313715d080a07d1098ee68a56b761ced.gif" width="80" height="80" />
+  <img src="https://i.pinimg.com/originals/33/d3/5d/33d35db8934632ded132d7cb171c8a21.gif" width="80" height="80" />
+  <img src="https://i.pinimg.com/originals/97/75/ff/9775ffeadf485b866d792cccff798a1e.gif" width="80" height="80" />
+  <img src="https://i.pinimg.com/originals/b2/7c/19/b27c19f211696e69b14c4cc1b0acaaed.gif" width="80" height="80" />
+  <img src="https://i.pinimg.com/originals/b0/ec/59/b0ec59502147adc73525dc3d03874b65.gif" width="80" height="80" />
+  <img src="https://i.pinimg.com/originals/bb/3f/b3/bb3fb37df281588f8f19d58a55d91773.gif" width="80" height="80" />
+  <img src="https://i.pinimg.com/originals/4c/a1/1e/4ca11ecc03dcd25cbc64672f8c81b6fb.gif" width="80" height="80" />
+  <img src="https://i.pinimg.com/originals/40/f9/c8/40f9c87a59b1bee59feb5a695109737d.gif" width="80" height="80" />
+  <img src="https://i.pinimg.com/originals/ac/65/8c/ac658c8d007348e91787f8396a111c30.gif" width="80" height="80" />
+</div>
+
+
 # 💫 About Me:
 Hello World!, I'm Ashwin Mehta Data Science Enthusiast<br>Creating Impactful solutions that make difference<br>Hands to real-world problem solving<br>I thrive on challenges and constantly push my boundaries to learn and grow.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/py.ashwin) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwin-mehta-4743b71b6/) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=0011Ashwin&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=0011Ashwin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=0011Ashwin&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![image](Screenshot 2025-01-13 230134.png)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=0011Ashwin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+#### Data Science Enthusiast  
+
+I am a dedicated and passionate **Data Scientist** with a focus on applying advanced statistical modeling, machine learning, and data-driven insights to transform complex data into actionable solutions. My expertise spans the entire data science lifecycle, from **exploratory analysis** to **model development**, followed by **evaluation** and **visualization**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=0011Ashwin&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Continuously navigating the dynamic frontier of **Data Science**, I actively engage in innovative projects that challenge the limits of what is possible. I thrive on solving complex problems, uncovering hidden patterns in data, and creating solutions that drive impactful results. I am always eager to learn, grow, and contribute to the ever-evolving world of technology.
+
+![image](Screenshot 2025-01-13 230304.png) <-- My mission -->
+
+To leverage my expertise to empower businesses and organizations to make smarter, data-driven decisions and unlock the potential of their data.
+
+ ![image](Screenshot 2025-01-13 230332.png) <-- My focus area -->
+ 
+- Statistical Modeling & Machine Learning  
+- Data Visualization & Insights  
+- Predictive Analytics  
+- Time Series Forecasting  
+- Deep Learning & Natural Language Processing (NLP)  
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
+
+<div style="flex: 1; padding-right: 10px;">
+
+
+
+![image](Screenshot 2025-01-13 230420.png) <-- skills -- >
+
+| **🚀 Category**              | **💻 Skills & Libraries**                                                                                  |
+|---------------------------|-------------------------------------------------------------------------------------------------------|
+| **🖥️ Programming**           | Python, SQL, NumPy, Pandas, SciPy, Matplotlib, Seaborn                                                    |
+| **🤖 Machine Learning**       | Scikit-learn, XGBoost, LightGBM                                                 |
+| **🧠 Deep Learning**          | TensorFlow, Keras, PyTorch, Hugging Face Transformers                                               |
+| **📊 Data Visualization**     | Matplotlib, Seaborn, Plotly                                                           |
+| **🔡 Natural Language Processing** | NLTK, SpaCy, TextBlob                                                    |
+| **🖼️ Image Processing**       | OpenCV, Scikit-Image, Pillow, MediaPipe                                                            |
+| **🧹 Data Cleaning & Wrangling** | Pandas Profiling, Missingno, Pyjanitor                                                          |
+| **📂 Big Data**               | PySpark, Dask, Hadoop                                                                      |
+| **📈 Time Series Analysis**   | Statsmodels                                                                    |                                                                              |
+| **🌐 Web Scraping**           | BeautifulSoup, Scrapy, Requests                                                                    |
+| **🤔 Explainable AI**         | ELI5, SHAP, LIME                                                                                   |
+| **⚡ GPU Acceleration**       | CuPy, RAPIDS                                                                                       |
+| **📐 Statistical Modeling**   | Statsmodels, Hypothesis Testing, Bayesian Analysis                                                 |
+
+</div>
+
+<div style="flex: 1; padding-left: 10px;">
+
+![image](Screenshot 2025-01-13 230455.png) <-- tools and vision control -->
+
+
+| **Category**               | **Tools**                                                                 |
+|----------------------------|---------------------------------------------------------------------------|
+| **APIs and Web Scraping**   | 🚀 **Postman**, 🌐 **BeautifulSoup**, 🕷️ **Scrapy**, 🖱️ **Selenium**       |
+| **Database Tools**          | 💾 **MySQL**                           |
+| **ETL Tools**               | 🔗 **Apache Nifi**, ⚙️ **Airflow**, 🛠️ **Pentaho**                        |
+| **Data Cleaning**           | 🧹 **OpenRefine**, 🔄 **Talend**, 📋 **Trifacta**                         |
+| **Statistical Tools**       | 📊 **RStudio**                                |
+| **Spreadsheets**            | 💡 **Microsoft Excel**, 🧮 **Google Sheets**                              |
+| **AutoML Platforms**        | 🤖 **H2O.ai**, 🌐 **Google AutoML**, 🛡️ **DataRobot**                     |
+| **Deep Learning Tools**     | 🧠 **TensorFlow**, 🔥 **PyTorch**, 🏗️ **Keras**                          |
+| **Data Visualization**      | 📉 **Matplotlib**, 📊 **Seaborn**                        |
+| **Big Data Frameworks**     | 🗃️ **Apache Spark**, 🌩️ **Hadoop**                       |
+| **Version Control Systems** | 🛠️ **Git**                     |
+| **GUI Tools for Git**       | 💻 **GitHub Desktop**               |
+| **Best Practices**          | 🌱 **Git Flow**, 📜 **Descriptive Commits**, 🗂️ **.gitignore**            |
+
+</div>
+</div>
+<table>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50" /></td>
+    <td><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-part-azure-sql-database-with-azure-active-directory-17.png" width="55" height="50" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="50" height="50" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created-with-Matplotlib-logo.svg.png" width="50" height="50" /></td>
+    <td><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50" height="50" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/5997976?v=4" width="50" height="50" /></td>
+    <td><img src="https://avatars.githubusercontent.com/u/4884274?s=280&v=4" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://iconape.com/wp-content/png_logo_vector/scikit-learn-logo.png" width="80" height="80" /></td>
+    <td><img src="https://miro.medium.com/v2/resize:fit:720/0*2LQ7VkdK9d2WaPVJ.png" width="80" height="80" /></td>
+    <td><img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="80" height="80" /></td>
+    <td><img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png" width="50" height="50" /></td>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="50" height="50" /></td>
+    <td><img src="https://www.pngkey.com/png/full/380-3800394_pytorch-logo.png" width="50" height="50" /></td>
+    <td><img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" width="50" height="50" /></td>
+    <td><img src="https://cilans.net/wp-content/uploads/2024/02/NLTK.png" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://i.imgur.com/dJQSclW.png" width="50" height="50" /></td>
+    <td><img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" width="50" height="50" /></td>
+    <td><img src="https://static-00.iconduck.com/assets.00/opencv-icon-1657x2048-3wu3ib6x.png" width="50" height="50" /></td>
+    <td><img src="https://viz.mediapipe.dev/logo.png" width="50" height="50" /></td>
+    <td><img src="https://static.vecteezy.com/system/resources/previews/009/384/309/non_2x/face-verification-unlock-clipart-design-illustration-free-png.png" width="50" height="50" /></td>
+    <td><img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-speech-recognition-color-icon-png-image_5254019.png" width="50" height="50" /></td>
+    <td><img src="https://python-pillow.org/assets/images/pillow-logo-248x250.png" width="50" height="50" /></td>
+    <td><img src="https://www.pngkey.com/png/full/343-3434526_missingno-missingno-sprite.png" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png" width="50" height="50" /></td>
+    <td><img src="https://numfocus.org/wp-content/uploads/2019/08/Dask-Logo-300x300-1.png" width="50" height="50" /></td>
+    <td><img src="https://media.licdn.com/dms/image/C5612AQFf-x152kHJZQ/article-cover_image-shrink_720_1280/0/1605440888542?e=2147483647&v=beta&t=39tYh27mSjvWlj-z_wLniG1MlhONZo852tduvKpDHio" width="80" height="80" /></td>
+    <td><img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-dark.svg" width="50" height="50" /></td>
+    <td><img src="https://brightdata.com/wp-content/uploads/2023/12/beatifulsoup_image.svg" width="50" height="50" /></td>
+    <td><img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" width="50" height="50" /></td>
+    <td><img src="https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-document-approved-request-icon-png-image_4759169.png" width="50" height="50" /></td>
+    <td><img src="https://m.media-amazon.com/images/I/51AZiY-bHdL.png" width="50" height="50" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://cdn.prod.website-files.com/6108e07db6795265f203a636/61e7c023fc2e226de100b9e2_Shap.png" width="50" height="50" /></td>
+    <td><img src="https://lime.data-imaginist.com/reference/figures/logo.png" width="50" height="50" /></td>
+    <td><img src="https://numfocus.org/wp-content/uploads/2022/12/CuPy_300x300.png" width="50" height="50" /></td>
+    <td><img src="https://pbs.twimg.com/profile_images/1049911508296224770/9R5kP6Ql_400x400.jpg" width="50" height="50" /></td>
+    <td><img src="https://static.thenounproject.com/png/3061239-200.png" width="50" height="50" /></td>
+    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bIoDvtMT5NHEDaElzA1JBenlgNlXWAz85A&s" width="50" height="50" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/0b380bc8-14b1-4c45-a22e-95127d5adce4" width="300">
+  <img src="https://www.freeiconspng.com/thumbs/check-mark-png/checkmark-png-line-29.png" width="60">
+</div>
+
+<!-- ![image](https://github.com/user-attachments/assets/7444bd5f-8a9c-44e0-9487-af5eeb2d3734)
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
+|---|---| -->
+
+
+<!-- ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg) -->
+
+<!-- <div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=rubydamodar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="300px"/></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rubydamodar&theme=vue-dark&hide_border=true" width="300px"/></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydamodar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300px"/></td>
+    </tr>
+  </table>
+</div> -->
+
+![image](https://github.com/user-attachments/assets/6fb55673-a5dc-49f7-ab11-3ddfc1e5aa07) <--- Connect me ---->
+
+<table>
+  <tr>
+    <td><a href="https://www.instagram.com/py.ashwin/"><img src="https://static.vecteezy.com/system/resources/previews/022/498/171/non_2x/3d-render-instagram-logo-icon-isolated-on-transparent-background-free-png.png" width="50" height="50" /></a></td>
+    <td><a href="https://www.linkedin.com/in/ashwin-mehta-4743b71b6/"><img src="https://ouch-cdn2.icons8.com/8JSM-dkrbumUC_shV5YnVuPKvB7eBdZ5OBjY7_R4i_I/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMjQ3/L2NmOThkOWJmLWRl/NTktNDMzYi1hNjQ1/LTUzYjNkMTczMTU4/My5wbmc.png" width="55" height="55" /></a></td>
+    <td><a href="mailto:ashwinmehta1234500@gmail.com"><img src="https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png" width="50" height="50" /></a></td>
+  </tr>
+</table>
+
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/origin/7a/7a6abdc338517f4cc9c983d287a7cf5a_w200.gif" style="width: 100px;">
+</div>
+
+
+
+
+
+
