@@ -10,14 +10,17 @@
 </div>
 
 
-
-<div style="display: flex; justify-content: space-between; align-items: center; padding: 0 100px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 100px;">
   <!-- Left Image -->
-  <img src="https://i.pinimg.com/originals/17/2c/14/172c1498808c0ac50d9aad688f92ae23.gif" style="width: 150px; margin-right: 100px;" alt="Left Image">
+  <img src="https://i.pinimg.com/originals/17/2c/14/172c1498808c0ac50d9aad688f92ae23.gif" style="width: 150px;" alt="Left Image">
+
+  <!-- Middle Image -->
+  <img src="https://github.com/user-attachments/assets/3255f5fe-f6ae-4de7-8435-17a0431381c0" style="width: 500px;" alt="Middle Image">
 
   <!-- Right Image -->
-  <img src="https://github.com/user-attachments/assets/3255f5fe-f6ae-4de7-8435-17a0431381c0" style="width: 500px; margin-left: 100px;" alt="Right Image">
+  <img src="https://vvvvw.neocities.org/lwh_marrs_naruto.gif" style="width: 150px;" alt="Right Image">
 </div>
+
 
 
 
