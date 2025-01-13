@@ -1,3 +1,16 @@
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 10px;">
+  <img src="https://i.gifer.com/1kc1.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/1kc1.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/1kc1.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/1kc1.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/1kc1.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/1kc1.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/1kc1.gif" style="width: 100px;">
+  <img src="https://i.gifer.com/1kc1.gif" style="width: 100px;">
+</div>
+
+
+
 ![image](https://github.com/user-attachments/assets/3255f5fe-f6ae-4de7-8435-17a0431381c0)
 
 **Aspiring Data Scientist 🔍 | BCA Student at Amity University, Patna 🎓 | Data Science Enthusiast 📊 | Lifelong Learner 🌱**  
