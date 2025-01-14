@@ -11,20 +11,15 @@
   <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
 </div>
 
+<p>
+  <img src="https://i.pinimg.com/originals/17/2c/14/172c1498808c0ac50d9aad688f92ae23.gif" alt="Left Image" width="150" style="float: left; margin-right: 10px;"/>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Ashwin+Mehta;Data+Science+Enthusiast;Creating+Impactful+Solutions;Hands+to+Real-world+Problem+Solving;Thriving+on+Challenges" alt="Typing SVG" style="display: block; margin: 0 auto;"/>
+
+  <img src="https://vvvvw.neocities.org/lwh_marrs_naruto.gif" alt="Right Image" width="150" style="float: right; margin-left: 10px;"/>
+</p>
 
 
-<div style="display: flex; gap: 0px;">
-  <img src="https://i.pinimg.com/originals/a8/09/94/a8099418b2137e113c808fff5df2dc2a.gif" width="80" height="80" />
-  <img src="https://i.pinimg.com/originals/31/37/15/313715d080a07d1098ee68a56b761ced.gif" width="80" height="80" />
-  <img src="https://i.pinimg.com/originals/33/d3/5d/33d35db8934632ded132d7cb171c8a21.gif" width="80" height="80" />
-  <img src="https://i.pinimg.com/originals/97/75/ff/9775ffeadf485b866d792cccff798a1e.gif" width="80" height="80" />
-  <img src="https://i.pinimg.com/originals/b2/7c/19/b27c19f211696e69b14c4cc1b0acaaed.gif" width="80" height="80" />
-  <img src="https://i.pinimg.com/originals/b0/ec/59/b0ec59502147adc73525dc3d03874b65.gif" width="80" height="80" />
-  <img src="https://i.pinimg.com/originals/bb/3f/b3/bb3fb37df281588f8f19d58a55d91773.gif" width="80" height="80" />
-  <img src="https://i.pinimg.com/originals/4c/a1/1e/4ca11ecc03dcd25cbc64672f8c81b6fb.gif" width="80" height="80" />
-  <img src="https://i.pinimg.com/originals/40/f9/c8/40f9c87a59b1bee59feb5a695109737d.gif" width="80" height="80" />
-  <img src="https://i.pinimg.com/originals/ac/65/8c/ac658c8d007348e91787f8396a111c30.gif" width="80" height="80" />
-</div>
 
 
 # 💫 Hello World!, I'm Ashwin Mehta
