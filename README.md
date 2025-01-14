@@ -12,6 +12,7 @@
   <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
 </div>
 
+
 <p>
   <img src="https://i.pinimg.com/originals/17/2c/14/172c1498808c0ac50d9aad688f92ae23.gif" alt="Left Image" width="150" style="float: left; margin-right: 10px;"/>
   
@@ -21,6 +22,7 @@
 </p>
 
 
+<img src="https://github.com/user-attachments/assets/6bb9a8a8-3019-49de-8c3a-c76fd142bd5d" width="150"/>
 
 
 # 💫 Hello World!, I'm Ashwin Mehta
