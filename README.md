@@ -24,7 +24,25 @@
   <img src="https://vvvvw.neocities.org/lwh_marrs_naruto.gif" alt="Right Image" width="150" style="float: right; margin-left: 10px;"/>
 </p>
 
+
+
+![image](https://github.com/user-attachments/assets/d65108dd-366e-45aa-bfdc-5703abce44b3)
+
+> ### I am a passionate Data Science enthusiast dedicated to turning complex data into actionable insights using advanced statistical modeling, machine learning, and data visualization. With expertise in the full data science process—from analysis to model development and evaluation—I thrive on solving problems and uncovering patterns that drive impactful results. Always eager to learn and grow, I focus on innovative projects that push the boundaries of technology to help organizations make data-driven decisions.
+
+
+- 🚀 **Passionate Data Science Enthusiast**: Transforming complex data into actionable insights.
+- 📊 **Expert in Statistical Modeling & Machine Learning**: Utilizing advanced techniques to uncover hidden patterns.
+- 🔮 **Focused on Predictive Analytics & Time Series Forecasting**: Delivering accurate predictions.
+- 💡 **NLP & Deep Learning**: Expertise in Natural Language Processing and deep learning models like TensorFlow and PyTorch.
+- 🧑‍🏫 **Continuous Learner**: Always exploring new technologies and pushing the boundaries of what's possible.
+
+> #### Let's make smarter, data-driven decisions together! 🌟
+
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0011Ashwin&theme=github_dark" alt="GitHub Profile Stats"/>
+
+
 
 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
@@ -35,35 +53,6 @@
 </div>
 
 
-
-# 💫 Hello World!, I'm Ashwin Mehta
-Data Science Enthusiast<br>Creating Impactful solutions that make difference<br>Hands to real-world problem solving<br>I thrive on challenges and constantly push my boundaries to learn and grow.
-
-
-#### Data Science Enthusiast  
-
-I am a dedicated and passionate **Data Scientist** with a focus on applying advanced statistical modeling, machine learning, and data-driven insights to transform complex data into actionable solutions. My expertise spans the entire data science lifecycle, from **exploratory analysis** to **model development**, followed by **evaluation** and **visualization**.
-
----
-
-Continuously navigating the dynamic frontier of **Data Science**, I actively engage in innovative projects that challenge the limits of what is possible. I thrive on solving complex problems, uncovering hidden patterns in data, and creating solutions that drive impactful results. I am always eager to learn, grow, and contribute to the ever-evolving world of technology.
-
-
-To leverage my expertise to empower businesses and organizations to make smarter, data-driven decisions and unlock the potential of their data.
-
- 
-- Statistical Modeling & Machine Learning  
-- Data Visualization & Insights  
-- Predictive Analytics  
-- Time Series Forecasting  
-- Deep Learning & Natural Language Processing (NLP)  
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-
-<div style="flex: 1; padding-right: 10px;">
-
-
-
-![image](Screenshot 2025-01-13 230420.png) <-- skills -- >
 
 | **🚀 Category**              | **💻 Skills & Libraries**                                                                                  |
 |---------------------------|-------------------------------------------------------------------------------------------------------|
