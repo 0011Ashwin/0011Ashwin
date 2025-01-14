@@ -40,6 +40,7 @@
 > #### Let's make smarter, data-driven decisions together! 🌟
 
 
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0011Ashwin&theme=github_dark" alt="GitHub Profile Stats"/>
 
 
@@ -51,6 +52,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0011Ashwin&theme=midnight_purple&utcOffset=8" width="200" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0011Ashwin&theme=midnight_purple" width="200" />
 </div>
+
+![image](https://github.com/user-attachments/assets/8137183b-77c1-45e7-a8df-66c3a2c86033)
 
 
 
@@ -149,15 +152,6 @@
 
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/0b380bc8-14b1-4c45-a22e-95127d5adce4" width="300">
-  <img src="https://www.freeiconspng.com/thumbs/check-mark-png/checkmark-png-line-29.png" width="60">
-</div>
-
-<!-- ![image](https://github.com/user-attachments/assets/7444bd5f-8a9c-44e0-9487-af5eeb2d3734)
-
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubydamodar&theme=chartreuse_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubydamodar&theme=chartreuse_dark&utcOffset=8) |
-|---|---| -->
 
 
 <!-- ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg) -->
@@ -171,6 +165,9 @@
     </tr>
   </table>
 </div> -->
+
+
+> ![image](https://github.com/user-attachments/assets/277ba1b9-a677-455d-87eb-234b39c2970e)
 
 <table>
   <tr>
