@@ -27,6 +27,15 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0011Ashwin&theme=github_dark" alt="GitHub Profile Stats"/>
 
 
+<div style="display: flex; justify-content: space-between; gap: 10px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0011Ashwin&theme=midnight_purple" width="200" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0011Ashwin&theme=midnight_purple" width="200" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0011Ashwin&theme=midnight_purple&utcOffset=8" width="200" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0011Ashwin&theme=midnight_purple" width="200" />
+</div>
+
+
+
 # 💫 Hello World!, I'm Ashwin Mehta
 Data Science Enthusiast<br>Creating Impactful solutions that make difference<br>Hands to real-world problem solving<br>I thrive on challenges and constantly push my boundaries to learn and grow.
 
