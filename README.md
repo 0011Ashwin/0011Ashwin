@@ -13,6 +13,9 @@
 </div>
 
 
+<img src="https://github-profile-trophy.vercel.app/?username=0011Ashwin&theme=juicyfresh&no-bg=true" />
+
+
 <p>
   <img src="https://i.pinimg.com/originals/17/2c/14/172c1498808c0ac50d9aad688f92ae23.gif" alt="Left Image" width="150" style="float: left; margin-right: 10px;"/>
   
@@ -21,8 +24,7 @@
   <img src="https://vvvvw.neocities.org/lwh_marrs_naruto.gif" alt="Right Image" width="150" style="float: right; margin-left: 10px;"/>
 </p>
 
-
-<img src="https://github.com/user-attachments/assets/6bb9a8a8-3019-49de-8c3a-c76fd142bd5d" width="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0011Ashwin&theme=github_dark" alt="GitHub Profile Stats"/>
 
 
 # 💫 Hello World!, I'm Ashwin Mehta
