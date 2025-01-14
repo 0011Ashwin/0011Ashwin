@@ -24,6 +24,7 @@
   <img src="https://vvvvw.neocities.org/lwh_marrs_naruto.gif" alt="Right Image" width="150" style="float: right; margin-left: 10px;"/>
 </p>
 
+![Profile Views](https://profile-counter.glitch.me/0011Ashwin/count.svg)
 
 
 ![image](https://github.com/user-attachments/assets/d65108dd-366e-45aa-bfdc-5703abce44b3)
