@@ -1,199 +1,151 @@
+<div align= "center">
 
+<!-- Animation Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Ashwin%20Mehta&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Full%20Stack%20Developer%20|%20Data%20Scientist&descAlignY=55&descAlign=50" width="100%">
 
+<!-- Tech Animation -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-</div>
+<!-- Dynamic Text -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=6C63FF&center=true&vCenter=true&width=1000&height=100&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Engineer;Data+Science+Specialist;Research+Enthusiast)](https://git.io/typing-svg)
 
-
-<img src="https://github-profile-trophy.vercel.app/?username=0011Ashwin&theme=juicyfresh&no-bg=true" />
-
-
-<p>
-  <img src="https://i.pinimg.com/originals/17/2c/14/172c1498808c0ac50d9aad688f92ae23.gif" alt="Left Image" width="150" style="float: left; margin-right: 10px;"/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=Hello+World!;I'm+Ashwin+Mehta;Data+Science+Enthusiast;Creating+Impactful+Solutions;Hands+to+Real-world+Problem+Solving;Thriving+on+Challenges" alt="Typing SVG" style="display: block; margin: 0 auto;"/>
-
-  <img src="https://vvvvw.neocities.org/lwh_marrs_naruto.gif" alt="Right Image" width="150" style="float: right; margin-left: 10px;"/>
-</p>
-
-![Profile Views](https://profile-counter.glitch.me/0011Ashwin/count.svg)
-
-
-![image](https://github.com/user-attachments/assets/d65108dd-366e-45aa-bfdc-5703abce44b3)
-
-> ### I am a passionate Data Science enthusiast dedicated to turning complex data into actionable insights using advanced statistical modeling, machine learning, and data visualization. With expertise in the full data science process—from analysis to model development and evaluation—I thrive on solving problems and uncovering patterns that drive impactful results. Always eager to learn and grow, I focus on innovative projects that push the boundaries of technology to help organizations make data-driven decisions.
-
-
-- 🚀 **Passionate Data Science Enthusiast**: Transforming complex data into actionable insights.
-- 📊 **Expert in Statistical Modeling & Machine Learning**: Utilizing advanced techniques to uncover hidden patterns.
-- 🔮 **Focused on Predictive Analytics & Time Series Forecasting**: Delivering accurate predictions.
-- 💡 **NLP & Deep Learning**: Expertise in Natural Language Processing and deep learning models like TensorFlow and PyTorch.
-- 🧑‍🏫 **Continuous Learner**: Always exploring new technologies and pushing the boundaries of what's possible.
-
-> #### Let's make smarter, data-driven decisions together! 🌟
-
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0011Ashwin&theme=github_dark" alt="GitHub Profile Stats"/>
-
-
-
-
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0011Ashwin&theme=midnight_purple" width="200" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0011Ashwin&theme=midnight_purple" width="200" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0011Ashwin&theme=midnight_purple&utcOffset=8" width="200" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0011Ashwin&theme=midnight_purple" width="200" />
-</div>
-
-![image](https://github.com/user-attachments/assets/8137183b-77c1-45e7-a8df-66c3a2c86033)
-
-
-
-| **🚀 Category**              | **💻 Skills & Libraries**                                                                                  |
-|---------------------------|-------------------------------------------------------------------------------------------------------|
-| **🖥️ Programming**           | Python, SQL, NumPy, Pandas, SciPy, Matplotlib, Seaborn                                                    |
-| **🤖 Machine Learning**       | Scikit-learn, XGBoost, LightGBM                                                 |
-| **🧠 Deep Learning**          | TensorFlow, Keras, PyTorch, Hugging Face Transformers                                               |
-| **📊 Data Visualization**     | Matplotlib, Seaborn, Plotly                                                           |
-| **🔡 Natural Language Processing** | NLTK, SpaCy, TextBlob                                                    |
-| **🖼️ Image Processing**       | OpenCV, Scikit-Image, Pillow, MediaPipe                                                            |
-| **🧹 Data Cleaning & Wrangling** | Pandas Profiling, Missingno, Pyjanitor                                                          |
-| **📂 Big Data**               | PySpark, Dask, Hadoop                                                                      |
-| **📈 Time Series Analysis**   | Statsmodels                                                                    |                                                                              |
-| **🌐 Web Scraping**           | BeautifulSoup, Scrapy, Requests                                                                    |
-| **🤔 Explainable AI**         | ELI5, SHAP, LIME                                                                                   |
-| **⚡ GPU Acceleration**       | CuPy, RAPIDS                                                                                       |
-| **📐 Statistical Modeling**   | Statsmodels, Hypothesis Testing, Bayesian Analysis                                                 |
+<!-- Profile Views -->
+<img src="https://komarev.com/ghpvc/?username=AshwinMehta&style=for-the-badge&color=blueviolet" alt="Profile Views">
 
 </div>
 
-<div style="flex: 1; padding-left: 10px;">
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-![image](https://github.com/user-attachments/assets/06527313-90b6-4c5b-8f4c-10d4318901cb)
+## 🚀 About Me
 
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
 
-| **Category**               | **Tools**                                                                 |
-|----------------------------|---------------------------------------------------------------------------|
-| **APIs and Web Scraping**   | 🚀 **Postman**, 🌐 **BeautifulSoup**, 🕷️ **Scrapy**, 🖱️ **Selenium**       |
-| **Database Tools**          | 💾 **MySQL**                           |
-| **ETL Tools**               | 🔗 **Apache Nifi**, ⚙️ **Airflow**, 🛠️ **Pentaho**                        |
-| **Data Cleaning**           | 🧹 **OpenRefine**, 🔄 **Talend**, 📋 **Trifacta**                         |
-| **Statistical Tools**       | 📊 **RStudio**                                |
-| **Spreadsheets**            | 💡 **Microsoft Excel**, 🧮 **Google Sheets**                              |
-| **AutoML Platforms**        | 🤖 **H2O.ai**, 🌐 **Google AutoML**, 🛡️ **DataRobot**                     |
-| **Deep Learning Tools**     | 🧠 **TensorFlow**, 🔥 **PyTorch**, 🏗️ **Keras**                          |
-| **Data Visualization**      | 📉 **Matplotlib**, 📊 **Seaborn**                        |
-| **Big Data Frameworks**     | 🗃️ **Apache Spark**, 🌩️ **Hadoop**                       |
-| **Version Control Systems** | 🛠️ **Git**                     |
-| **GUI Tools for Git**       | 💻 **GitHub Desktop**               |
-| **Best Practices**          | 🌱 **Git Flow**, 📜 **Descriptive Commits**, 🗂️ **.gitignore**            |
+Computer Science student at **Amity University** specializing in Data Science, with a proven track record in AI development and research. Currently maintaining an impressive CGPA of **8.7/10**.
+
+- 🎓 BCA+MCA in Computer Science & Engineering (2023-2028)
+- 💼 Former Intern at **Cepta** and **kaggle**
+- 📝 Currently working on RAG adv system
+- 🏆 Smart India Hackathon 2024 Finalist and 2md Runner-up
+- 🌟 Group leader of Data Science Club and AI Club
+- 🧠 Passionate about Generative AI, Computer Vision , Natural Language Processing , RAG-system and Machine learning model traning.
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 💻 Professional Experience
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
+
+### 🔹 Cepts (Sept 2024 - Oct 2024)
+
+- 🤖 Developed an AI system for Crypto tracking achieving **72.2% accuracy**
+- 🔍 Implemented yfanice model and Gemini API for high-precision detection
+- 🎨 Created real-time sketch analysis system with advanced GUI
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100"> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
+
+### 🧠 AI/ML Stack
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFBD59?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+### 🛢️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ⚙️ DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 </div>
-</div>
-<table>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="50" height="50" /></td>
-    <td><img src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-part-azure-sql-database-with-azure-active-directory-17.png" width="55" height="50" /></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50" /></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" width="50" height="50" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created-with-Matplotlib-logo.svg.png" width="50" height="50" /></td>
-    <td><img src="https://cdn.worldvectorlogo.com/logos/seaborn-1.svg" width="50" height="50" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/5997976?v=4" width="50" height="50" /></td>
-    <td><img src="https://avatars.githubusercontent.com/u/4884274?s=280&v=4" width="50" height="50" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://iconape.com/wp-content/png_logo_vector/scikit-learn-logo.png" width="80" height="80" /></td>
-    <td><img src="https://miro.medium.com/v2/resize:fit:720/0*2LQ7VkdK9d2WaPVJ.png" width="80" height="80" /></td>
-    <td><img src="https://lightgbm.readthedocs.io/en/latest/_images/LightGBM_logo_black_text.svg" width="80" height="80" /></td>
-    <td><img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/07/tensorflow_logo.png" width="50" height="50" /></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" width="50" height="50" /></td>
-    <td><img src="https://www.pngkey.com/png/full/380-3800394_pytorch-logo.png" width="50" height="50" /></td>
-    <td><img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" width="50" height="50" /></td>
-    <td><img src="https://cilans.net/wp-content/uploads/2024/02/NLTK.png" width="50" height="50" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.imgur.com/dJQSclW.png" width="50" height="50" /></td>
-    <td><img src="https://textblob.readthedocs.io/en/dev/_static/textblob-logo.png" width="50" height="50" /></td>
-    <td><img src="https://static-00.iconduck.com/assets.00/opencv-icon-1657x2048-3wu3ib6x.png" width="50" height="50" /></td>
-    <td><img src="https://viz.mediapipe.dev/logo.png" width="50" height="50" /></td>
-    <td><img src="https://static.vecteezy.com/system/resources/previews/009/384/309/non_2x/face-verification-unlock-clipart-design-illustration-free-png.png" width="50" height="50" /></td>
-    <td><img src="https://png.pngtree.com/png-vector/20220621/ourmid/pngtree-speech-recognition-color-icon-png-image_5254019.png" width="50" height="50" /></td>
-    <td><img src="https://python-pillow.org/assets/images/pillow-logo-248x250.png" width="50" height="50" /></td>
-    <td><img src="https://www.pngkey.com/png/full/343-3434526_missingno-missingno-sprite.png" width="50" height="50" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Spark-logo-192x100px.png" width="50" height="50" /></td>
-    <td><img src="https://numfocus.org/wp-content/uploads/2019/08/Dask-Logo-300x300-1.png" width="50" height="50" /></td>
-    <td><img src="https://media.licdn.com/dms/image/C5612AQFf-x152kHJZQ/article-cover_image-shrink_720_1280/0/1605440888542?e=2147483647&v=beta&t=39tYh27mSjvWlj-z_wLniG1MlhONZo852tduvKpDHio" width="80" height="80" /></td>
-    <td><img src="https://www.statsmodels.org/stable/_images/statsmodels-logo-v2-dark.svg" width="50" height="50" /></td>
-    <td><img src="https://brightdata.com/wp-content/uploads/2023/12/beatifulsoup_image.svg" width="50" height="50" /></td>
-    <td><img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" width="50" height="50" /></td>
-    <td><img src="https://png.pngtree.com/png-vector/20220527/ourmid/pngtree-document-approved-request-icon-png-image_4759169.png" width="50" height="50" /></td>
-    <td><img src="https://m.media-amazon.com/images/I/51AZiY-bHdL.png" width="50" height="50" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.prod.website-files.com/6108e07db6795265f203a636/61e7c023fc2e226de100b9e2_Shap.png" width="50" height="50" /></td>
-    <td><img src="https://lime.data-imaginist.com/reference/figures/logo.png" width="50" height="50" /></td>
-    <td><img src="https://numfocus.org/wp-content/uploads/2022/12/CuPy_300x300.png" width="50" height="50" /></td>
-    <td><img src="https://pbs.twimg.com/profile_images/1049911508296224770/9R5kP6Ql_400x400.jpg" width="50" height="50" /></td>
-    <td><img src="https://static.thenounproject.com/png/3061239-200.png" width="50" height="50" /></td>
-    <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7bIoDvtMT5NHEDaElzA1JBenlgNlXWAz85A&s" width="50" height="50" /></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
 
+## 📊 GitHub Statistics
+<div align="center">
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshwinMehta&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinMehta&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
-
-<!-- ![Profile Views](https://profile-counter.glitch.me/rubydamodar/count.svg) -->
-
-<!-- <div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=rubydamodar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="300px"/></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=rubydamodar&theme=vue-dark&hide_border=true" width="300px"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydamodar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="300px"/></td>
-    </tr>
-  </table>
-</div> -->
-
-
-> ![image](https://github.com/user-attachments/assets/277ba1b9-a677-455d-87eb-234b39c2970e)
-
-<table>
-  <tr>
-    <td><a href="https://www.instagram.com/py.ashwin/"><img src="https://static.vecteezy.com/system/resources/previews/022/498/171/non_2x/3d-render-instagram-logo-icon-isolated-on-transparent-background-free-png.png" width="50" height="50" /></a></td>
-    <td><a href="https://www.linkedin.com/in/ashwin-mehta-4743b71b6/"><img src="https://ouch-cdn2.icons8.com/8JSM-dkrbumUC_shV5YnVuPKvB7eBdZ5OBjY7_R4i_I/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMjQ3/L2NmOThkOWJmLWRl/NTktNDMzYi1hNjQ1/LTUzYjNkMTczMTU4/My5wbmc.png" width="55" height="55" /></a></td>
-    <td><a href="mailto:ashwinmehta1234500@gmail.com"><img src="https://ouch-cdn2.icons8.com/Q_mKQhLvgHc4CpJslA6YAg1orkPp2LG3W6rdaEQZ1oo/rs:fit:456:456/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvOTYv/MzE3NWFhMzAtMmQw/Yi00MDgyLTlhZWMt/ZWUyZGNlYzQwYmM0/LnBuZw.png" width="50" height="50" /></a></td>
-  </tr>
-</table>
-
-
-
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
-  <img src="https://i.gifer.com/origin/10/103c30d1f212356e3b4601589fd58e2a_w200.gif" style="width: 100px;">
 </div>
 
 
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
+## 🏆 Projects & Achievements
 
+<div align="center">
 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **AI Content Moderator** | Developed an ML system to detect and filter harmful content with 97% accuracy | Python, TensorFlow, CLIP, Gemini API |
+| **Traffic Prediction System** | Created an AI-based system for predicting traffic patterns | Python, PyTorch, Pandas, Scikit-learn |
+| **Medical Diagnosis Assistant** | Built an AI tool to assist in preliminary medical diagnoses | TensorFlow, React, NextJS |
+| **Gesture-Controlled Interface** | Created a computer vision system enabling gesture control of devices | OpenCV, Python, MediaPipe |
+| **Quantum ML Research** | Research on applying quantum computing principles to machine learning | Qiskit, Python, TensorFlow Quantum |
+
+</div>
+
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
+
+## 🎓 Education & Certifications
+
+- 🎓 **BCA+MCA in Computer Science**
+  - Amity University (2023-2028)
+  - CGPA: 8.7/10
+
+- 📜 **Certifications**
+  - TensorFlow Developer Certification
+  - AWS Machine Learning Specialty
+  - Deep Learning Specialization (Coursera)
+  - Advanced Data Science with IBM (Coursera)
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%">
+
+<div align="center">
+<h3>💬 Let's connect and build something amazing together!</h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onlywith-ashwin/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0011Ashwin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashwinmehta1234500@gmail.com)
+
+</div>
