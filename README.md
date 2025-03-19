@@ -37,7 +37,7 @@ Computer Science student at **Amity University** specializing in Data Science, w
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="400">
 
-### 🔹 Cepts (Sept 2024 - Oct 2024)
+### 🔹 CETPA (Sept 2024 - Oct 2024)
 
 - 🤖 Developed an AI system for Crypto tracking achieving **72.2% accuracy**
 - 🔍 Implemented yfanice model and Gemini API for high-precision detection
