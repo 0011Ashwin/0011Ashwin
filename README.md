@@ -133,7 +133,8 @@ Computer Science student at **Amity University** specializing in Data Science, w
   - CGPA: 8.7/10
 
 - 📜 **Certifications**
-  - TensorFlow Developer Certification
+  - Google Developer Certification
+  - Cepta Intern Certification
   - AWS Machine Learning Specialty
   - Deep Learning Specialization (Coursera)
   - Advanced Data Science with IBM (Coursera)
