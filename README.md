@@ -111,7 +111,7 @@ Computer Science student at **Amity University** specializing in Data Science, w
 
 ## 🏆 Projects & Achievements
 
-<div align="center">
+<!-- <div align="center">
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
@@ -121,7 +121,7 @@ Computer Science student at **Amity University** specializing in Data Science, w
 | **Gesture-Controlled Interface** | Created a computer vision system enabling gesture control of devices | OpenCV, Python, MediaPipe |
 | **Quantum ML Research** | Research on applying quantum computing principles to machine learning | Qiskit, Python, TensorFlow Quantum |
 
-</div>
+</div> -->
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
@@ -133,7 +133,7 @@ Computer Science student at **Amity University** specializing in Data Science, w
   - CGPA: 8.7/10
 
 - 📜 **Certifications**
-  - Google Developer Certification
+  - Google Developer Certification (Coursera)
   - Cepta Intern Certification
   - AWS Machine Learning Specialty
   - Deep Learning Specialization (Coursera)
