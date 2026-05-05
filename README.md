@@ -10,9 +10,9 @@
 
 </div>
 
-**Ashwin** is a passionate developer with expertise in **AI/ML**, **Data Science**, and **Full-Stack Development**.
+**Ashwin** is a passionate Data Scientist and AI Solutions Engineer with expertise in **Generative AI**, **Agentic Systems**, and **MLOps**.
 
-He loves building innovative projects that solve real-world problems. From crop yield prediction systems to AI-powered dashboards, Ashwin enjoys exploring the intersection of technology and practical applications. He is always eager to learn new technologies and contribute to open-source projects.
+He specializes in building scalable, real-world AI solutions that push the boundaries of machine reasoning. From orchestrating autonomous multi-agent workflows using LangGraph and Gemini to deploying robust CI/CD pipelines on Google Cloud, Ashwin turns cutting-edge research into practical tools. As a Google Student Ambassador and SpaceTech enthusiast, he is always eager to explore the intersection of advanced AI and space exploration while contributing to the open-source community.
 
 To learn more about Ashwin's work, explore the repositories below! 👇
 <p align="left">
