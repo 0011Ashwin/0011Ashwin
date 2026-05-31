@@ -16,6 +16,37 @@ He specializes in building scalable, real-world AI solutions that push the bound
 
 To learn more about Ashwin's work, explore the repositories below! 👇
 <p align="left">
+  <a href="https://dev.to/ashwin_mehta/googles-agentic-leap-how-gemini-turned-workspace-into-your-autonomous-executive-assistant-2nbl"
+     title="Google's Agentic Leap: How Gemini Turned Workspace Into Your Autonomous Executive Assistant">
+    <img src="./assets/google-gemini-2.png"
+         alt="Google's Agentic Leap: How Gemini Turned Workspace Into Your Autonomous Executive Assistant"
+         width="250px"
+         align="left"/>
+  </a>
+
+  <a href="https://dev.to/ashwin_mehta/googles-agentic-leap-how-gemini-turned-workspace-into-your-autonomous-executive-assistant-2nbl"
+     title="Google's Agentic Leap: How Gemini Turned Workspace Into Your Autonomous Executive Assistant">
+    <strong>Google's Agentic Leap: How Gemini Turned Workspace Into Your Autonomous Executive Assistant</strong>
+  </a>
+
+  <div>
+    <strong>Published on:</strong> 31st May 2026
+    <br/>
+    In this blog, I explore Google's quiet shift into the agentic era by embedding Gemini across Workspace apps like Gmail, Drive, and Photos. I break down how cross-app workflows turn your cloud ecosystem into an autonomous executive assistant and share practical, action-oriented prompt strategies to automate your daily workflows.
+    <a href="https://dev.to/ashwin_mehta/googles-agentic-leap-how-gemini-turned-workspace-into-your-autonomous-executive-assistant-2nbl">
+      read more
+    </a>
+  </div>
+</p>
+
+<br/>
+
+
+
+****************************************************
+
+
+<p align="left">
   <a href="https://dev.to/ashwin_mehta/google-nano-banana-how-prompt-structure-changes-ai-image-results-488l"
      title="Google Nano Banana: How Prompt Structure Changes AI Image Results">
     <img src="./assets/model-nano.png"
