@@ -24,8 +24,6 @@ To learn more about Ashwin's work, explore the repositories below! 👇
          align="left"/>
   </a>
 
-  <br style="clear: both;"/>
-
   <a href="https://dev.to/ashwin_mehta/googles-agentic-leap-how-gemini-turned-workspace-into-your-autonomous-executive-assistant-2nbl"
      title="Google's Agentic Leap: How Gemini Turned Workspace Into Your Autonomous Executive Assistant">
     <strong>Google's Agentic Leap: How Gemini Turned Workspace Into Your Autonomous Executive Assistant</strong>
